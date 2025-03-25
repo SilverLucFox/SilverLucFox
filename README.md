@@ -11,7 +11,7 @@ I'm a **teacher, programmer, and web developer** passionate about creating innov
 ![React](https://skillicons.dev/icons?i=react)&nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs)&nbsp; ![Vite](https://skillicons.dev/icons?i=vite)&nbsp; ![HTML](https://skillicons.dev/icons?i=html)&nbsp; ![CSS](https://skillicons.dev/icons?i=css)&nbsp; ![JavaScript](https://skillicons.dev/icons?i=javascript)&nbsp; ![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)
 
 ### **Backend**
-![FastAPI](https://skillicons.dev/icons?i=fastapi)&nbsp; ![Express](https://skillicons.dev/icons?i=express)&nbsp; ![Laravel](https://skillicons.dev/icons?i=laravel)&nbsp; ![Node.js](https://skillicons.dev/icons?i=nodejs);![PHP](https://skillicons.dev/icons?i=php)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)&nbsp; ![Express](https://skillicons.dev/icons?i=express)&nbsp; ![Laravel](https://skillicons.dev/icons?i=laravel)&nbsp; ![Node.js](https://skillicons.dev/icons?i=nodejs); ![PHP](https://skillicons.dev/icons?i=php)
 
 ### **Programming Languages**
 ![Java](https://skillicons.dev/icons?i=java)&nbsp; ![C](https://skillicons.dev/icons?i=c)&nbsp; ![C++](https://skillicons.dev/icons?i=cpp)&nbsp; ![Python](https://skillicons.dev/icons?i=python)&nbsp;
