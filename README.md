@@ -14,7 +14,8 @@ I'm a **teacher, programmer, and web developer** passionate about creating innov
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)&nbsp; ![Express](https://skillicons.dev/icons?i=express)&nbsp; ![Laravel](https://skillicons.dev/icons?i=laravel)&nbsp; ![Node.js](https://skillicons.dev/icons?i=nodejs) ![PHP](https://skillicons.dev/icons?i=php)
 
 ### **Programming Languages**
-![Java](https://skillicons.dev/icons?i=java)&nbsp; ![C](https://skillicons.dev/icons?i=c)&nbsp; ![C++](https://skillicons.dev/icons?i=cpp)&nbsp; ![Python](https://skillicons.dev/icons?i=python)&nbsp;
+![Java](https://skillicons.dev/icons?i=java)&nbsp; ![C](https://skillicons.dev/icons?i=c)&nbsp; ![C++](https://skillicons.dev/icons?i=cpp)&nbsp; ![Python](https://skillicons.dev/icons?i=python)&nbsp; ![Bash](https://skillicons.dev/icons?i=bash)
+
 
 ### **Mobile Development**
 ![Flutter](https://skillicons.dev/icons?i=flutter);![React Native](https://skillicons.dev/icons?i=react);
