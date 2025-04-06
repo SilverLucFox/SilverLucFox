@@ -18,7 +18,7 @@ I'm a **teacher, programmer, and web developer** passionate about creating innov
 
 
 ### **Mobile Development**
-![Flutter](https://skillicons.dev/icons?i=flutter);![React Native](https://skillicons.dev/icons?i=react);
+![Flutter](https://skillicons.dev/icons?i=flutter) ![React Native](https://skillicons.dev/icons?i=react)
 
 ## 🔗 Connect with Me
 - 📧 **Email**: jawadc444@gmail.com
