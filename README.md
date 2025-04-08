@@ -22,5 +22,4 @@ I'm a **teacher, programmer, and web developer** passionate about creating innov
 
 ## 🔗 Connect with Me
 - 📧 **Email**: jawadc444@gmail.com
-- 📞 **Phone**: +961 81192415
 
