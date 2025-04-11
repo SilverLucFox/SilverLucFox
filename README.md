@@ -1,5 +1,5 @@
 
-I'm a **teacher, programmer, and web developer** passionate about creating innovative and efficient solutions. I specialize in **web development, software engineering, and mentoring students in their final year projects (FYP).**
+I'm a **teacher, programmer, and web developer** love creating innovative and efficient solutions. I specialize in **web development, software engineering, and mentoring students in their final year projects (FYP).**
 
 ## 🚀 About Me
 - 🎓 **Educator**: Helping students and professionals grow in programming and software development.
