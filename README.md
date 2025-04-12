@@ -1,10 +1,13 @@
 
 I'm a **teacher, programmer, and web developer** love creating innovative and efficient solutions. I specialize in **web development, software engineering, and mentoring students in their final year projects (FYP).**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverLucFox&show_icons=true&hide_title=true)
+
 ## 🚀 About Me
 - 🎓 **Educator**: Helping students and professionals grow in programming and software development.
 - 💻 **Full-Stack Developer**: Experienced in building scalable and user-friendly applications.
 - 🔧 **Tech Enthusiast**: Always searching for something to learn to stay ahead in the industry.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverLucFox&show_icons=true&hide_title=true)
 
 ## 🛠️ Tech Stack
 ### **Frontend**
