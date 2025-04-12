@@ -7,7 +7,6 @@ I'm a **teacher, programmer, and web developer** love creating innovative and ef
 - 🔧 **Tech Enthusiast**: Always searching for something to learn to stay ahead in the industry.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverLucFox&show_icons=true&hide_title=true)
 
 ## 🛠️ Tech Stack
 ### **Frontend**
