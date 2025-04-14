@@ -25,3 +25,7 @@ I'm a **teacher, programmer, and web developer** love creating innovative and ef
 ## 🔗 Connect with Me
 - 📧 **Email**: jawadc444@gmail.com
 
+###
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverLucFox&show_icons=true&hide_title=true)
+ 
+ 
