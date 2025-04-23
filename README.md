@@ -1,9 +1,8 @@
 <div align="center">
 
-# 👨‍🏫👨‍💻 **Jawad Choucair**
+# **Jawad Choucair**
 ## Silver Fox
 **Teacher • Full-Stack Engineer • Student Mentor**
-
 </div>
 
 ---
