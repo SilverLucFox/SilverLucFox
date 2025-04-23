@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👨‍🏫👨‍💻 Hello, I’m **Jawad**
-
+# 👨‍🏫👨‍💻 **Jawad Choucair**
+## Silver Fox
 **Teacher • Full-Stack Engineer • Student Mentor**
 
 </div>
