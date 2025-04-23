@@ -1,31 +1,54 @@
+<div align="center">
 
-I'm a **teacher, programmer, and web developer** love creating innovative and efficient solutions. I specialize in **web development, software engineering, and mentoring students in their final year projects (FYP).**
+# 👨‍🏫👨‍💻 Hello, I’m **Jawad**
 
-## 🚀 About Me
-- 🎓 **Educator**: Helping students and professionals grow in programming and software development.
-- 💻 **Full-Stack Developer**: Experienced in building scalable and user-friendly applications.
-- 🔧 **Tech Enthusiast**: Always searching for something to learn to stay ahead in the industry.
+**Teacher • Full-Stack Engineer • Student Mentor**
 
+</div>
 
+---
+
+## 🎯 My Mission  
+Empower the next generation of developers by blending **hands-on teaching** with **cutting-edge software design**. I’m passionate about transforming complex concepts into approachable learning experiences and building scalable, user-centric applications.
+
+---
+
+## 🚀 Core Competencies
+
+| **Teaching & Mentorship**                  | **Architecture & Code**                   | **Innovation & Growth**              |
+|:------------------------------------------:|:-----------------------------------------:|:------------------------------------:|
+| • Final-Year Project Guidance              | • Design Patterns & Best Practices        | • Rapid Prototyping                  |
+| • Curriculum Design                        | • Performance Optimization                | • Researching New Tech               |
+| • Workshop Facilitation                    | • Automated Testing & CI/CD               | • Collaborative Problem Solving      |
+
+---
 
 ## 🛠️ Tech Stack
-### **Frontend**
-![React](https://skillicons.dev/icons?i=react)&nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs)&nbsp; ![Vite](https://skillicons.dev/icons?i=vite)&nbsp; ![HTML](https://skillicons.dev/icons?i=html)&nbsp; ![CSS](https://skillicons.dev/icons?i=css)&nbsp; ![JavaScript](https://skillicons.dev/icons?i=javascript)&nbsp; ![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)
 
-### **Backend**
-![FastAPI](https://skillicons.dev/icons?i=fastapi)&nbsp; ![Express](https://skillicons.dev/icons?i=express)&nbsp; ![Laravel](https://skillicons.dev/icons?i=laravel)&nbsp; ![Node.js](https://skillicons.dev/icons?i=nodejs) ![PHP](https://skillicons.dev/icons?i=php)
+**Frontend:**  
+React • Next.js • Vite • HTML • CSS • JavaScript • Tailwind CSS
 
-### **Programming Languages**
-![Java](https://skillicons.dev/icons?i=java)&nbsp; ![C](https://skillicons.dev/icons?i=c)&nbsp; ![C++](https://skillicons.dev/icons?i=cpp)&nbsp; ![Python](https://skillicons.dev/icons?i=python)&nbsp; ![Bash](https://skillicons.dev/icons?i=bash)
+**Backend:**  
+FastAPI • Express • Laravel • Node.js • PHP
 
+**Languages:**  
+Java • C • C++ • Python • Bash
 
-### **Mobile Development**
-![Flutter](https://skillicons.dev/icons?i=flutter) ![React Native](https://skillicons.dev/icons?i=react)
+**Mobile:**  
+Flutter • React Native
 
-## 🔗 Connect with Me
-- 📧 **Email**: jawadc444@gmail.com
+---
 
-###
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverLucFox&show_icons=true&hide_title=true)
- 
- 
+## 🌟 Highlights
+
+- **100+** hours of live coding workshops for university students  
+- Architected and shipped **3+** production-grade web applications with **scalable backends**  
+- Mentored **20+** final-year teams to successful project submissions  
+
+---
+
+## 📫 Let’s Connect
+
+- ✉️ **Email:** [jawadc444@gmail.com](mailto:jawadc444@gmail.com)  
+
+<sub>_“Teaching is the art of igniting curiosity.”_</sub>
