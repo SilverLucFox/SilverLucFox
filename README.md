@@ -31,7 +31,7 @@ React • Next.js • Vite • HTML • CSS • JavaScript • Tailwind CSS
 FastAPI • Express • Laravel • Node.js • PHP
 
 **Languages:**  
-Java • C • C++ • Python • Bash
+Java • C • C++ • Python • Bash • Assembly
 
 **Mobile:**  
 Flutter • React Native
@@ -42,7 +42,7 @@ Flutter • React Native
 
 - **100+** hours of live coding workshops for university students  
 - Architected and shipped **3+** production-grade web applications with **scalable backends**  
-- Mentored **20+** final-year teams to successful project submissions  
+- Mentored **20+** final-year Students to successful project submissions  
 
 ---
 
