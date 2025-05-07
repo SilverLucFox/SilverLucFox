@@ -34,7 +34,7 @@ FastAPI • Express • Laravel • Node.js • PHP
 Java • C • C++ • Python • Bash • Assembly
 
 **Mobile:**  
-Flutter • React Native
+React Native
 
 ---
 
