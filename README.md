@@ -32,4 +32,5 @@ React Native
 - ✉️ **Email:** [jawadc444@gmail.com](mailto:jawadc444@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/jawadchoucair](https://www.linkedin.com/in/jawad-choucair-3998ba154?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 **Portfolio:** [jawadchoucair.com](https://jawadchoucair.onrender.com)
+---
 <sub>_"Teaching is the art of igniting curiosity."_</sub>
