@@ -2,7 +2,7 @@
 
 # **Jawad Choucair**
 ## Silver Fox
-**Teacher • Full-Stack Engineer • Student Mentor**
+**Teacher • Developer • Student Mentor**
 </div>
 
 ---
