@@ -1,4 +1,4 @@
-<div align="center">
+
 # **Jawad Choucair**
 ## Silver Fox
 **Teacher • Developer • Student Mentor**
