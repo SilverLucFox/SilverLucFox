@@ -2,7 +2,6 @@
 # **Jawad Choucair**
 ## Silver Fox
 **Teacher • Developer • Student Mentor**
-</div>
 ---
 ## 🎯 My Mission  
 Empower the next generation of developers by blending **hands-on teaching** with **cutting-edge software design**. I'm passionate about transforming complex concepts into approachable learning experiences and building scalable, user-centric applications.
