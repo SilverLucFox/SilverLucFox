@@ -16,10 +16,13 @@ Empower the next generation of developers by blending **hands-on teaching** with
 ## 🛠️ Tech Stack
 **Frontend:**  
 React • Next.js • Vite • HTML • CSS • JavaScript • Tailwind CSS
+-
 **Backend:**  
 FastAPI • Express • Laravel • Node.js • PHP
+-
 **Languages:**  
 Java • C • C++ • Python • Bash • Assembly
+-
 **Mobile:**  
 React Native
 ---
