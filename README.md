@@ -4,7 +4,7 @@
 📞 +961 81 192 415  
 📧 jawadc444@gmail.com  
 
-[LinkedIn](https://linkedin.com/in/jawad-choucair-3998ba154) • [GitHub](https://github.com/SilverLucFox) • [Portfolio](https://jawadchoucair.onrender.com/)
+[LinkedIn](https://linkedin.com/in/jawad-choucair-3998ba154) • [Portfolio](https://jawadchoucair.onrender.com/)
 
 ---
 
