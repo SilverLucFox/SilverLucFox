@@ -1,16 +1,110 @@
-## Hi there 👋
+#  Jawad Choucair
 
-<!--
-**SilverLucFox/SilverLucFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Byblos, Lebanon**  
+📞 +961 81 192 415  
+📧 jawadc444@gmail.com  
 
-Here are some ideas to get you started:
+[LinkedIn](https://linkedin.com/in/jawad-choucair-3998ba154) • [GitHub](https://github.com/SilverLucFox) • [Portfolio](https://jawadchoucair.onrender.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+Mission-driven **developer and educator** with expertise in **full-stack development** and **technical instruction**. I have a proven track record in:
+- Building scalable, high-performance applications.
+- Mentoring students in software development.
+- Improving learning outcomes with hands-on teaching approaches.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+React, Next.js, Vite, HTML, CSS, JavaScript, Tailwind CSS  
+
+**Backend:**  
+FastAPI, Express, Laravel, Node.js, PHP  
+
+**Languages:**  
+Java, C/C++, Python, Bash, Assembly  
+
+**Mobile:**  
+React Native  
+
+**Tools:**  
+Git, Linux/Unix, REST APIs, SQL Server, CI/CD  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Information Technology**  
+Holy Spirit University of Kaslik (USEK)  
+*Graduating: June 2025*  
+
+**Technical Baccalaureate in IT**  
+Institut Technique Edde  
+*Graduated: July 2016*  
+
+---
+
+## 💼 Experience
+
+**Freelance Programming Tutor**  
+*Sep 2021 – Present* | Remote / Byblos, Lebanon  
+- Mentored students in full-stack development and core programming (C++, Java, Python)  
+- Guided project architecture, debugging, and deployment  
+
+**Python & Java Instructor**  
+SSCC – Institut Mgr. Cortbawi  
+*Sep 2022 – Jun 2023*  
+- Delivered programming curriculum to 20–25 students  
+- Increased pass rates by 18% through hands-on labs  
+
+**Floral Assistant**  
+*Mar 2019 – Jun 2021* | Byblos, Lebanon  
+- Maintained arrangements, advised customers, managed inventory  
+
+---
+
+## 🚀 Key Projects
+
+### [The Wine Room E-commerce Platform](https://bernard-frontend.onrender.com/)
+Full-stack e-commerce app with product catalog, cart, and secure checkout  
+**Tech Stack:** FastAPI, React, Vite, Node.js  
+**Live Demo:** [View Project](https://bernard-frontend.onrender.com/)
+
+---
+
+### [Portfolio Website](https://jawadchoucair.onrender.com/)
+Responsive portfolio showcasing skills and projects  
+**Tech Stack:** React, Vite  
+**Live Site:** [Visit Website](https://jawadchoucair.onrender.com/)
+
+---
+
+### [Super MCQ Game](https://github.com/SilverLucFox/super-mcq)
+Universal multiple-choice question game with TXT-to-JSON converter, progress tracking, and retry functionality  
+**Tech Stack:** HTML, CSS, JavaScript, Python, Node.js  
+**GitHub:** [Repository](https://github.com/SilverLucFox/super-mcq)
+
+---
+
+### [Gauss-Jordan Matrix Solver](https://github.com/SilverLucFox/Gauss-Jordan-Matrix-Solver)
+Matrix solver using Gauss-Jordan elimination for educational purposes  
+**Tech Stack:** Python  
+**GitHub:** [Repository](https://github.com/SilverLucFox/Gauss-Jordan-Matrix-Solver)
+
+---
+
+## 🤝 Community Involvement
+**Pro-bono Tutor**  
+Provided free math and programming support to under-resourced students
+
+---
+
+## 📫 Contact Me
+- **Email:** jawadc444@gmail.com  
+- **Phone:** +961 81 192 415  
+- **Location:** Byblos, Lebanon  
+
+Let’s connect and build something amazing!
