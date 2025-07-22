@@ -102,6 +102,12 @@ Provided free math and programming support to under-resourced students
 
 ---
 
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=SilverLucFox&hide_border=false&background=da78ff&stroke=660066&ring=E70000&fire=E70000&currStreakNum=E70000&sideNums=FFF8E1&currStreakLabel=FFF8E1&sideLabels=FFF8E1&dates=FFF8E1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilverLucFox&bg_color=0d1117&color=c9d1d9&line=da78ff&point=da78ff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
 ## 📫 Contact Me
 - **Email:** jawadc444@gmail.com  
 - **Phone:** +961 81 192 415  
