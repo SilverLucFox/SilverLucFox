@@ -98,7 +98,7 @@ Matrix solver using Gauss-Jordan elimination for educational purposes
 
 ## 🤝 Community Involvement
 **Pro-bono Tutor**  
-Provided free math and programming support to under-resourced students
+Provided free programming support to under-resourced students
 
 ---
 
