@@ -1,104 +1,118 @@
-#  Jawad Choucair
+# Jawad Choucair
 
-**Byblos, Lebanon**  
-📞 +961 81 192 415  
-📧 jawadc444@gmail.com  
-
-[LinkedIn](https://linkedin.com/in/jawad-choucair-3998ba154) • [Portfolio](https://jawadchoucair.onrender.com/)
+<p align="center">
+  <b>Byblos, Lebanon</b> &nbsp;|&nbsp; 📞 +961 81 192 415 &nbsp;|&nbsp; 📧 jawadc444@gmail.com  
+  <a href="https://linkedin.com/in/jawad-choucair-3998ba154">LinkedIn</a> • <a href="https://jawadchoucair.onrender.com/">Portfolio</a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-Mission-driven **developer and educator** with expertise in **full-stack development** and **technical instruction**. I have a proven track record in:
-- Building scalable, high-performance applications.
-- Mentoring students in software development.
-- Improving learning outcomes with hands-on teaching approaches.
+
+Mission-driven <b>developer and educator</b> with expertise in <b>full-stack development</b> and <b>technical instruction</b>. Proven track record in:
+
+- Building scalable, high-performance applications
+- Mentoring students in software development
+- Improving learning outcomes with hands-on teaching
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-React, Next.js, Vite, HTML, CSS, JavaScript, Tailwind CSS  
-
-**Backend:**  
-FastAPI, Express, Laravel, Node.js, PHP  
-
-**Languages:**  
-Java, C/C++, Python, Bash, Assembly  
-
-**Mobile:**  
-React Native  
-
-**Tools:**  
-Git, Linux/Unix, REST APIs, SQL Server, CI/CD  
+<b>Frontend:</b> React, Next.js, Vite, HTML, CSS, JavaScript, Tailwind CSS  
+<b>Backend:</b> FastAPI, Express, Laravel, Node.js, PHP  
+<b>Languages:</b> Java, C/C++, Python, Bash, Assembly  
+<b>Mobile:</b> React Native  
+<b>Tools:</b> Git, Linux/Unix, REST APIs, SQL Server, CI/CD
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Information Technology**  
+<b>Bachelor of Science in Information Technology</b>  
 Holy Spirit University of Kaslik (USEK)  
-*Graduating: June 2025*  
+<i>Graduating: June 2025</i>
 
-**Technical Baccalaureate in IT**  
+<b>Technical Baccalaureate in IT</b>  
 Institut Technique Edde  
-*Graduated: July 2016*  
+<i>Graduated: July 2016</i>
 
 ---
 
 ## 💼 Experience
 
-**Freelance Programming Tutor**  
-*Sep 2021 – Present* | Remote / Byblos, Lebanon  
-- Mentored students in full-stack development and core programming (C++, Java, Python)  
-- Guided project architecture, debugging, and deployment  
+### Web Developer — Societe Detay SAL <span style="float:right;">Aug 2025 – Present</span>
 
-**Python & Java Instructor**  
-SSCC – Institut Mgr. Cortbawi  
-*Sep 2022 – Jun 2023*  
-- Delivered programming curriculum to 20–25 students  
-- Increased pass rates by 18% through hands-on labs  
+<i>Full-time | Jbeil District, Keserwan-Jbeil Governorate, Lebanon | On-site</i>
 
-**Floral Assistant**  
-*Mar 2019 – Jun 2021* | Byblos, Lebanon  
-- Maintained arrangements, advised customers, managed inventory  
+
+### Freelance Programming Tutor <span style="float:right;">Sep 2021 – Present</span>
+
+
+<i>Full-time | Jbeil District, Keserwan-Jbeil Governorate, Lebanon | Remote</i>
+
+
+<ul>
+  <li>Mentored students in full-stack development and core programming (C++, Java, Python)</li>
+  <li>Guided project architecture, debugging, and deployment</li>
+</ul>
+
+### Python & Java Instructor — SSCC – Institut Mgr. Cortbawi <span style="float:right;">Sep 2022 – Jun 2023</span>
+
+<ul>
+  <li>Delivered programming curriculum to 20–25 students</li>
+</ul>
+
+### Floral Assistant <span style="float:right;">Mar 2019 – Jun 2021</span>
+
+
+<i>Full-time | Amshit District, Keserwan-Jbeil Governorate, Lebanon | On-site</i>
+
+<ul>
+  <li>Maintained arrangements, advised customers, managed inventory</li>
+</ul>
 
 ---
 
 ## 🚀 Key Projects
 
-### [The Wine Room E-commerce Platform](https://bernard-frontend.onrender.com/)
-Full-stack e-commerce app with product catalog, cart, and secure checkout  
-**Tech Stack:** FastAPI, React, Vite, Node.js  
-**Live Demo:** [View Project](https://bernard-frontend.onrender.com/)
+### <a href="https://bernard-frontend.onrender.com/">The Wine Room E-commerce Platform</a>
 
----
+<ul>
+  <li>Full-stack e-commerce app with product catalog, cart, and secure checkout</li>
+  <li><b>Tech Stack:</b> FastAPI, React, Vite, Node.js</li>
+  <li><a href="https://bernard-frontend.onrender.com/">Live Demo</a></li>
+</ul>
 
-### [Portfolio Website](https://jawadchoucair.onrender.com/)
-Responsive portfolio showcasing skills and projects  
-**Tech Stack:** React, Vite  
-**Live Site:** [Visit Website](https://jawadchoucair.onrender.com/)
+### <a href="https://jawadchoucair.onrender.com/">Portfolio Website</a>
 
----
+<ul>
+  <li>Responsive portfolio showcasing skills and projects</li>
+  <li><b>Tech Stack:</b> React, Vite</li>
+  <li><a href="https://jawadchoucair.onrender.com/">Live Site</a></li>
+</ul>
 
-### [Super MCQ Game](https://github.com/SilverLucFox/super-mcq)
-Universal multiple-choice question game with TXT-to-JSON converter, progress tracking, and retry functionality  
-**Tech Stack:** HTML, CSS, JavaScript, Python, Node.js  
-**GitHub:** [Repository](https://github.com/SilverLucFox/super-mcq)
+### <a href="https://github.com/SilverLucFox/super-mcq">Super MCQ Game</a>
 
----
+<ul>
+  <li>Universal multiple-choice question game with TXT-to-JSON converter, progress tracking, and retry functionality</li>
+  <li><b>Tech Stack:</b> HTML, CSS, JavaScript, Python, Node.js</li>
+  <li><a href="https://github.com/SilverLucFox/super-mcq">GitHub Repository</a></li>
+</ul>
 
-### [Gauss-Jordan Matrix Solver](https://github.com/SilverLucFox/Gauss-Jordan-Matrix-Solver)
-Matrix solver using Gauss-Jordan elimination for educational purposes  
-**Tech Stack:** Python  
-**GitHub:** [Repository](https://github.com/SilverLucFox/Gauss-Jordan-Matrix-Solver)
+### <a href="https://github.com/SilverLucFox/Gauss-Jordan-Matrix-Solver">Gauss-Jordan Matrix Solver</a>
+
+<ul>
+  <li>Matrix solver using Gauss-Jordan elimination for educational purposes</li>
+  <li><b>Tech Stack:</b> Python</li>
+  <li><a href="https://github.com/SilverLucFox/Gauss-Jordan-Matrix-Solver">GitHub Repository</a></li>
+</ul>
 
 ---
 
 ## 🤝 Community Involvement
-**Pro-bono Tutor**  
-Provided free programming support to under-resourced students
+
+<b>Pro-bono Tutor</b> — Provided free programming support to under-resourced students
 
 ---
 
@@ -107,9 +121,11 @@ Provided free programming support to under-resourced students
 </p>
 
 ---
-## 📫 Contact Me
-- **Email:** jawadc444@gmail.com  
-- **Phone:** +961 81 192 415  
-- **Location:** Byblos, Lebanon  
 
-Let’s connect and build something amazing!
+## 📫 Contact Me
+
+- <b>Email:</b> jawadc444@gmail.com
+- <b>Phone:</b> +961 81 192 415
+- <b>Location:</b> Byblos, Lebanon
+
+<p align="center"><i>Let’s connect and build something amazing!</i></p>
