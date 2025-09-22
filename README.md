@@ -45,12 +45,9 @@ Institut Technique Edde
 
 <i>Full-time | Jbeil District, Keserwan-Jbeil Governorate, Lebanon | On-site</i>
 
-
 ### Freelance Programming Tutor <span style="float:right;">Sep 2021 – Present</span>
 
-
 <i>Full-time | Jbeil District, Keserwan-Jbeil Governorate, Lebanon | Remote</i>
-
 
 <ul>
   <li>Mentored students in full-stack development and core programming (C++, Java, Python)</li>
@@ -64,7 +61,6 @@ Institut Technique Edde
 </ul>
 
 ### Floral Assistant <span style="float:right;">Mar 2019 – Jun 2021</span>
-
 
 <i>Full-time | Amshit District, Keserwan-Jbeil Governorate, Lebanon | On-site</i>
 
@@ -120,7 +116,11 @@ Institut Technique Edde
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilverLucFox&bg_color=0d1117&color=c9d1d9&line=da78ff&point=da78ff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SilverLucFox&title=Commits&theme=onedark" alt="GitHub Profile Trophy: Commits"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilverLucFox&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SilverLucFox&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/>
+</p>
 
 ## 📫 Contact Me
 
