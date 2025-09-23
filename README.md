@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Jbeil District, Keserwan-Jbeil Governorate, Lebanon</b> &nbsp;|&nbsp; 📞 +961 81 192 415 &nbsp;|&nbsp; 📧 jawadc444@gmail.com  
-  <a href="https://linkedin.com/in/jawad-choucair-3998ba154">LinkedIn</a> • <a href="https://jawadchoucair.onrender.com/">Portfolio</a>
+  <a href="https://linkedin.com/in/jawad-choucair-3998ba154">LinkedIn</a> • <a href="https://jawadchoucair.lblabs.net/">Portfolio</a>
 </p>
 
 ---
