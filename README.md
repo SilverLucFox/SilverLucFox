@@ -1,134 +1,173 @@
-# Jawad Choucair
+<div align="center">
 
-<p align="center">
-  <b>Jbeil District, Keserwan-Jbeil Governorate, Lebanon</b> &nbsp;|&nbsp; 📞 +961 81 192 415 &nbsp;|&nbsp; 📧 jawadc444@gmail.com  
-  <a href="https://linkedin.com/in/jawad-choucair-3998ba154">LinkedIn</a> • <a href="https://jawadchoucair.lblabs.net/">Portfolio</a>
-</p>
+# 👋 Hi, I'm Jawad Choucair
+
+### Full-Stack Developer | Technical Educator | Problem Solver
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jawad-choucair-3998ba154)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jawadchoucair.lblabs.net/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawadc444@gmail.com)
+
+📍 Byblos, Lebanon • 📞 +961 81 192 415
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-Mission-driven <b>developer and educator</b> with expertise in <b>full-stack development</b> and <b>technical instruction</b>. Proven track record in:
+Mission-driven **developer and educator** passionate about building scalable applications and empowering the next generation of programmers. I specialize in:
 
-- Building scalable, high-performance applications
-- Mentoring students in software development
-- Improving learning outcomes with hands-on teaching
+- 💻 Building **high-performance full-stack applications**
+- 👨‍🏫 Mentoring students in **software development**
+- 🎯 Creating **hands-on learning experiences** that drive real outcomes
+- 🌱 Contributing to **open-source** and community education
 
 ---
 
 ## 🛠️ Tech Stack
 
-<b>Frontend:</b> React, Next.js, Vite, HTML, CSS, JavaScript, Tailwind CSS  
-<b>Backend:</b> FastAPI, Express, Laravel, Node.js, PHP  
-<b>Languages:</b> Java, C/C++, Python, Bash, Assembly  
-<b>Mobile:</b> React Native  
-<b>Tools:</b> Git, Linux/Unix, REST APIs, SQL Server, CI/CD
+```text
+Frontend    │ React • Next.js • Vite • Tailwind CSS • HTML/CSS/JavaScript
+Backend     │ FastAPI • Express • Laravel • Node.js • PHP
+Languages   │ Python • Java • C/C++ • JavaScript • Bash • Assembly
+Mobile      │ React Native
+Database    │ SQL Server • PostgreSQL • MongoDB
+Tools       │ Git • Linux/Unix • Docker • REST APIs • CI/CD
+```
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 **Lead Developer & CTO** • *[LBLabs](https://lblabs.net)*
+**Sep 2024 – Present** | Remote
+- Leading technical strategy and development initiatives
+- Architecting scalable solutions for client projects
+- Managing development team and code quality standards
+- 🔗 [Visit LBLabs](https://lblabs.net)
+
+### 🌐 **Web Developer** • *[Societe Detay SAL](https://godetay.com)*
+**Aug 2024 – Present** | Jbeil, Lebanon
+- Developing and maintaining production web applications
+- Implementing modern web technologies and best practices
+- 🔗 [Visit Detay](https://godetay.com)
+
+### 👨‍🏫 **Freelance Programming Tutor**
+**Sep 2021 – Present** | Remote
+- Mentored **50+ students** in full-stack development
+- Specialized in C++, Java, Python, and web technologies
+- Guided students through **project architecture, debugging, and deployment**
+
+### 📚 **Python & Java Instructor** • *SSCC – Institut Mgr. Cortbawi*
+**Sep 2022 – Jun 2023** | On-site
+- Delivered comprehensive programming curriculum to classes of 20-25 students
+- Developed hands-on projects and assessments
 
 ---
 
 ## 🎓 Education
 
-<b>Bachelor of Science in Information Technology</b>  
-Holy Spirit University of Kaslik (USEK)  
-<i>Graduating: June 2025</i>
+**🎓 Bachelor of Science in Information Technology**  
+Holy Spirit University of Kaslik (USEK) • *Graduating June 2025*
 
-<b>Technical Baccalaureate in IT</b>  
-Institut Technique Edde  
-<i>Graduated: July 2016</i>
+**📜 Technical Baccalaureate in IT**  
+Institut Technique Edde • *Graduated July 2016*
 
 ---
 
-## 💼 Experience
+## 🌟 Featured Projects
 
-### Web Developer — Societe Detay SAL <span style="float:right;">Aug 2025 – Present</span>
-
-<i>Full-time | Jbeil District, Keserwan-Jbeil Governorate, Lebanon | On-site</i>
-### lead Developer — LBLabs <span style="float:right;">sep 2025 – Present</span>
-
-<i>Full-time | Jbeil District, Keserwan-Jbeil Governorate, Lebanon | Remote</i>
-
-### Freelance Programming Tutor <span style="float:right;">Sep 2021 – Present</span>
-
-<i>Full-time | Jbeil District, Keserwan-Jbeil Governorate, Lebanon | Remote</i>
-
-<ul>
-  <li>Mentored students in full-stack development and core programming (C++, Java, Python)</li>
-  <li>Guided project architecture, debugging, and deployment</li>
-</ul>
-
-### Python & Java Instructor — SSCC – Institut Mgr. Cortbawi <span style="float:right;">Sep 2022 – Jun 2023</span>
-
-<ul>
-  <li>Delivered programming curriculum to 20–25 students</li>
-</ul>
-
-### Floral Assistant <span style="float:right;">Mar 2019 – Jun 2021</span>
-
-<i>Full-time | Amshit District, Keserwan-Jbeil Governorate, Lebanon | On-site</i>
-
-<ul>
-  <li>Maintained arrangements, advised customers, managed inventory</li>
-</ul>
-
----
-
-## 🚀 Key Projects
-
-### <a href="https://bernard-frontend.onrender.com/">The Wine Room E-commerce Platform</a>
-
-<ul>
-  <li>Full-stack e-commerce app with product catalog, cart, and secure checkout</li>
-  <li><b>Tech Stack:</b> FastAPI, React, Vite, Node.js</li>
-  <li><a href="https://bernard-frontend.onrender.com/">Live Demo</a></li>
-</ul>
-
-### <a href="https://jawadchoucair.onrender.com/">Portfolio Website</a>
-
-<ul>
-  <li>Responsive portfolio showcasing skills and projects</li>
-  <li><b>Tech Stack:</b> React, Vite</li>
-  <li><a href="https://jawadchoucair.onrender.com/">Live Site</a></li>
-</ul>
-
-### <a href="https://github.com/SilverLucFox/super-mcq">Super MCQ Game</a>
-
-<ul>
-  <li>Universal multiple-choice question game with TXT-to-JSON converter, progress tracking, and retry functionality</li>
-  <li><b>Tech Stack:</b> HTML, CSS, JavaScript, Python, Node.js</li>
-  <li><a href="https://github.com/SilverLucFox/super-mcq">GitHub Repository</a></li>
-</ul>
-
-### <a href="https://github.com/SilverLucFox/Gauss-Jordan-Matrix-Solver">Gauss-Jordan Matrix Solver</a>
-
-<ul>
-  <li>Matrix solver using Gauss-Jordan elimination for educational purposes</li>
-  <li><b>Tech Stack:</b> Python</li>
-  <li><a href="https://github.com/SilverLucFox/Gauss-Jordan-Matrix-Solver">GitHub Repository</a></li>
-</ul>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🍷 The Wine Room E-commerce Platform</h3>
+      <p>Full-featured e-commerce platform with product catalog, cart system, and secure checkout</p>
+      <p><strong>Tech:</strong> FastAPI • React • Vite • Node.js</p>
+      <p>
+        <a href="https://bernard-frontend.onrender.com/">🔗 Live Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💼 Portfolio Website</h3>
+      <p>Modern, responsive portfolio showcasing projects and skills</p>
+      <p><strong>Tech:</strong> React • Vite • Tailwind CSS</p>
+      <p>
+        <a href="https://jawadchoucair.lblabs.net/">🔗 Live Site</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎮 Super MCQ Game</h3>
+      <p>Universal quiz game with TXT-to-JSON converter, progress tracking, and retry functionality</p>
+      <p><strong>Tech:</strong> HTML • CSS • JavaScript • Python • Node.js</p>
+      <p>
+        <a href="https://github.com/SilverLucFox/super-mcq">📦 Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔢 Gauss-Jordan Matrix Solver</h3>
+      <p>Educational matrix solver implementing Gauss-Jordan elimination algorithm</p>
+      <p><strong>Tech:</strong> Python</p>
+      <p>
+        <a href="https://github.com/SilverLucFox/Gauss-Jordan-Matrix-Solver">📦 Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🤝 Community Involvement
 
-<b>Pro-bono Tutor</b> — Provided free programming support to under-resourced students
+**🎓 Pro-bono Tutor** • Providing free programming education to under-resourced students, helping bridge the digital divide
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SilverLucFox&bg_color=0d1117&color=c9d1d9&line=da78ff&point=da78ff&area=true&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SilverLucFox&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilverLucFox&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" height="170"/>
+</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SilverLucFox&theme=midnight-purple&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always interested in collaborating on exciting projects or helping aspiring developers grow their skills.
+
+**📧 Email:** jawadc444@gmail.com  
+**📱 Phone:** +961 81 192 415  
+**📍 Location:** Byblos, Lebanon
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jawad_Choucair-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jawad-choucair-3998ba154)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jawadchoucair.lblabs.net-FF6B6B?style=for-the-badge&logo=google-chrome)](https://jawadchoucair.lblabs.net/)
+
+### 🏢 Companies I Work With
+
+[![LBLabs](https://img.shields.io/badge/LBLabs-lblabs.net-9B59B6?style=for-the-badge&logo=rocket)](https://lblabs.net)
+[![Detay](https://img.shields.io/badge/Detay-godetay.com-27AE60?style=for-the-badge&logo=shopping-cart)](https://godetay.com)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilverLucFox&bg_color=0d1117&color=c9d1d9&line=da78ff&point=da78ff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <i>💡 "Code is not just about syntax—it's about solving problems and creating impact."</i>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SilverLucFox&title=Commits&theme=onedark" alt="GitHub Profile Trophy: Commits"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilverLucFox&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SilverLucFox&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/>
+  <img src="https://komarev.com/ghpvc/?username=SilverLucFox&label=Profile%20Views&color=da78ff&style=flat-square" alt="Profile Views" />
 </p>
 
-## 📫 Contact Me
-
-- <b>Email:</b> jawadc444@gmail.com
-- <b>Phone:</b> +961 81 192 415
-- <b>Location:</b> Byblos, Lebanon
-
-<p align="center"><i>Let’s connect and build something amazing!</i></p>
+</div>
