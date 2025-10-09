@@ -44,6 +44,9 @@ Institut Technique Edde
 ### Web Developer — Societe Detay SAL <span style="float:right;">Aug 2025 – Present</span>
 
 <i>Full-time | Jbeil District, Keserwan-Jbeil Governorate, Lebanon | On-site</i>
+### lead Developer — LBLabs <span style="float:right;">sep 2025 – Present</span>
+
+<i>Full-time | Jbeil District, Keserwan-Jbeil Governorate, Lebanon | Remote</i>
 
 ### Freelance Programming Tutor <span style="float:right;">Sep 2021 – Present</span>
 
