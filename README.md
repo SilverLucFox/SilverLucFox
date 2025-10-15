@@ -136,7 +136,6 @@ Institut Technique Edde • *Graduated July 2016*
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilverLucFox&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SilverLucFox&theme=midnight-purple&hide_border=true)
 
 </div>
 
