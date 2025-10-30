@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jawad Choucair
+# Jawad Choucair
 
 ### Full-Stack Developer | Technical Educator | Problem Solver
 
