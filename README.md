@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jawadchoucair.lblabs.net/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawadc444@gmail.com)
 
- Byblos, Lebanon • 📞 +961 81 192 415
+ Byblos, Lebanon •  +961 81 192 415
 
 </div>
 
@@ -85,7 +85,7 @@ Institut Technique Edde • *Graduated July 2016*
       <p>Full-featured e-commerce platform with product catalog, cart system, and secure checkout</p>
       <p><strong>Tech:</strong> FastAPI • React • Vite • Node.js</p>
       <p>
-        <a href="https://bernard-frontend.onrender.com/">🔗 Live Demo</a>
+        <a href="https://bernard-frontend.onrender.com/">Live Demo</a>
       </p>
     </td>
     <td width="50%">
@@ -93,7 +93,7 @@ Institut Technique Edde • *Graduated July 2016*
       <p>Modern, responsive portfolio showcasing projects and skills</p>
       <p><strong>Tech:</strong> React • Vite • Tailwind CSS</p>
       <p>
-        <a href="https://jawadchoucair.lblabs.net/">🔗 Live Site</a>
+        <a href="https://jawadchoucair.lblabs.net/">Live Site</a>
       </p>
     </td>
   </tr>
@@ -103,7 +103,7 @@ Institut Technique Edde • *Graduated July 2016*
       <p>Universal quiz game with TXT-to-JSON converter, progress tracking, and retry functionality</p>
       <p><strong>Tech:</strong> HTML • CSS • JavaScript • Python • Node.js</p>
       <p>
-        <a href="https://github.com/SilverLucFox/super-mcq">📦 Repository</a>
+        <a href="https://github.com/SilverLucFox/super-mcq">Repository</a>
       </p>
     </td>
     <td width="50%">
@@ -111,7 +111,7 @@ Institut Technique Edde • *Graduated July 2016*
       <p>Educational matrix solver implementing Gauss-Jordan elimination algorithm</p>
       <p><strong>Tech:</strong> Python</p>
       <p>
-        <a href="https://github.com/SilverLucFox/Gauss-Jordan-Matrix-Solver">📦 Repository</a>
+        <a href="https://github.com/SilverLucFox/Gauss-Jordan-Matrix-Solver">Repository</a>
       </p>
     </td>
   </tr>
