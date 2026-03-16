@@ -53,6 +53,14 @@ Tools       │ Git • Linux/Unix • Docker • REST APIs • CI/CD
 - Implementing modern web technologies and best practices
 -  [Visit Detay](https://godetay.com)
 
+###  **Web Developer** • *Freelance*
+**Aug 2021 – Present** | Jbeil, Lebanon
+- Developing and maintaining production web applications
+-  Implementing modern web technologies and best practices
+- Architecting scalable solutions for client projects
+- Managing development team and code quality standards
+
+
 ###  **Freelance Programming Tutor**
 **Sep 2021 – Present** | Remote
 - Mentored **50+ students** in full-stack development
