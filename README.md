@@ -40,7 +40,7 @@ Tools       │ Git • Linux/Unix • Docker • REST APIs • CI/CD
 
 ##  Professional Experience
 
-###  **Lead Developer & CTO** • *[LBLabs](https://lblabs.net)*
+###  **Lead Developer ** • *[LBLabs](https://lblabs.net)*
 **Sep 2024 – Present** | Remote
 - Leading technical strategy and development initiatives
 - Architecting scalable solutions for client projects
